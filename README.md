@@ -1,12 +1,26 @@
-# React + Vite
+# 🛒 React E-Commerce Store
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A fully functional e-commerce store built with **React.js, Context API, Tailwind CSS, and React Router**.
 
-Currently, two official plugins are available:
+## 🚀 Features
+✅ Browse & view products  
+✅ Add/remove items from the cart  
+✅ Dynamic total price calculation  
+✅ Proceed to checkout with payment options  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🖥️ Technologies Used
+- React.js
+- Context API (for global state)
+- React Router
+- Tailwind CSS
+- Git & GitHub for version control
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
+(Add screenshots of your UI here)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📂 How to Run Locally
+1. Clone the repository:  
+   ```sh
+   git clone <YOUR_REPO_URL>
+   cd react-ecommerce
+
